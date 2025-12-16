@@ -1,6 +1,5 @@
-## 🔍 Deep Code Analysis
+## 🔍 User Authentication Project
 
-### 1. Repository Classification
 This project is classified as an **Application/Web App**, specifically a full-stack application with a clear separation between a Node.js backend API and a web frontend, managed from a single repository root. The core purpose is to demonstrate a robust authentication system.
 
 ### 2. Technology Stack Detection
